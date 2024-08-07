@@ -7,7 +7,7 @@
 | 2024 | Doherty Podcast: Infection and Immunity - Evidence Explained | Invited interview   | National               | Melbourne, Australia |
 | 2023 | 1st WHO Global Meeting on Skin NTDs                       | Oral presentation    | International          | Geneva, Switzerland  |
 | 2023 | Triple R Radio Interview: Radiotherapy Program            | Invited interview    | National               | Melbourne, Australia |
-| 2023 | ASM Microbe                                               | Oral presentation    | International          | Houston, TX, USA     |
+| 2023 | American Society of Microbiology - Microbe (one of the largest microbiology meetings globally) | Oral presentation    | International          | Houston, TX, USA     |
 | 2023 | Doherty Institute AI in Infection and Immunity Symposium | Invited presentation | National               | Melbourne, Australia |
 | 2023 | ABACBS Conference                                         | Poster               | National               | Brisbane, Australia  |
 | 2023 | Fortnightly Centre for Innovation in Infectious Diseases and Immunology Research Meeting | Invited presentation | National             | Geelong, Australia   |
