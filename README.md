@@ -6,7 +6,7 @@
 |------|-----------------------------------------------------------|----------------------|------------------------|----------------------|
 | 2024 | Doherty Podcast: Infection and Immunity - Evidence Explained<br> https://biomedicalsciences.unimelb.edu.au/news-and-events/archive-news/andrew-buultjens-machine-learning | 🔴 **Invited interview**   | National               | Melbourne, Australia |
 | 2023 | 1st WHO Global Meeting on Skin NTDs                       | Oral presentation    | International          | Geneva, Switzerland  |
-| 2023 | Triple R Radio Interview: Radiotherapy Program <br>https://www.rrr.org.au/explore/podcasts/radiotherapy/<br>episodes/6675-emotion-focused-therapy-and-buruli-ulcers (segment starts at 27:35)| 🔴 **Invited interview**    | National               | Melbourne, Australia |
+| 2023 | Triple R Radio Interview: Radiotherapy Program <br>https://www.rrr.org.au/explore/podcasts/radiotherapy/episodes/6675-emotion-focused-therapy-and-buruli-ulcers (segment starts at 27:35)| 🔴 **Invited interview**    | National               | Melbourne, Australia |
 | 2023 | American Society of Microbiology - Microbe (one of the largest microbiology meetings globally) | Oral presentation    | International          | Houston, TX, USA     |
 | 2023 | Doherty Institute AI in Infection and Immunity Symposium | 🔴 **Invited presentation** | National               | Melbourne, Australia |
 | 2023 | ABACBS Conference                                         | Poster               | National               | Brisbane, Australia  |
