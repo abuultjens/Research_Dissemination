@@ -10,7 +10,7 @@
 | 2023 | American Society of Microbiology - Microbe (one of the largest microbiology meetings globally) | Oral presentation    | ✈️ **International:** <br>Houston, TX, USA     |
 | 2023 | Doherty Institute AI in Infection and Immunity Symposium | 🟢 **Invited presentation** | National:<br>Melbourne, Australia |
 | 2023 | ABACBS Conference                                         | Poster               | National:<br>Brisbane, Australia  |
-| 2023 | Fortnightly Centre for Innovation in Infectious Diseases and Immunology Research Meeting | Invited presentation | National:<br>Geelong, Australia   |
+| 2023 | Fortnightly Centre for Innovation in Infectious Diseases and Immunology Research Meeting | 🟢 **Invited presentation** | National:<br>Geelong, Australia   |
 | 2022 | Doherty Computational Sciences Initiative Seminar Series  | 🟢 **Invited presentation** | National:<br>Melbourne, Australia |
 | 2022 | Monash Health Infectious Diseases seminar                 | 🟢 **Invited presentation** | National:<br>Melbourne, Australia |
 | 2022 | ABACBS Conference                                         | Poster               | National:<br>Melbourne, Australia |
